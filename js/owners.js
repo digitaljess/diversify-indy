@@ -101,6 +101,10 @@ let buildOwner = (owner) => {
         ownerHighlight += "<span class='" + owner.support[i] + "'>" + owner.support[i] + "</span>"
     }
 
+    if (owner.company.support != null) {
+        ownerHighlight += "<p><i>" + owner.company.support + "</i></p>";
+    }
+
     ownerHighlight += "</div></div></div>";
     return ownerHighlight;
 }
