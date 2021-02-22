@@ -148,7 +148,7 @@ const speakers = [
   {
     name: "Tonie Snell",
     contact: {
-      linkedin: "www.linkedin.com/in/jobmingler",
+      linkedin: "https://www.linkedin.com/in/jobmingler",
       email: "mailto:tonie@360hr.co",
     },
     interests: ["Meetups", "Conferences", "Companies"],
@@ -175,8 +175,7 @@ const speakers = [
   {
     name: "Linda Calvin",
     contact: {
-      linkedin: "https://www.linkedin.com/in/lindacalvin",
-      email: "mailto:ashleemboyer.dev@gmail.com",
+      linkedin: "https://www.linkedin.com/in/lindacalvin"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics: "Diversity in tech, women in tech, demystifying what “tech” is",
