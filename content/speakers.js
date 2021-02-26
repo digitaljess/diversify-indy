@@ -3,7 +3,7 @@ const speakers = [
     name: "Andrew Robinson III",
     contact: {
       linkedin: "https://www.linkedin.com/in/arthree/",
-      email: "mailto:ar3@ar3.me",
+      email: "mailto:ar3@ar3.me"
     },
     interests: ["Meetups"],
     topics:
@@ -17,7 +17,7 @@ const speakers = [
     name: "Anna Eaglin",
     contact: {
       linkedin: "https://www.linkedin.com/in/anna-eaglin/",
-      email: "mailto:anna.eaglin@innovatemap.com",
+      email: "mailto:anna.eaglin@innovatemap.com"
     },
     interests: ["Meetups", "Conferences"],
     topics:
@@ -33,7 +33,7 @@ const speakers = [
       twitter: "https://twitter.com/anna_saraceno",
       website: "https://annasaraceno.me/",
       linkedin: "https://www.linkedin.com/in/annasaraceno/",
-      email: "mailto:annasaraceno@gmail.com",
+      email: "mailto:annasaraceno@gmail.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
@@ -47,7 +47,7 @@ const speakers = [
     name: "Darye Henry",
     contact: {
       linkedin: "https://linkedin.com/in/darye",
-      email: "mailto:darye@afterschoolhq.com",
+      email: "mailto:darye@afterschoolhq.com"
     },
     interests: ["Meetups", "Conferences"],
     topics:
@@ -61,7 +61,7 @@ const speakers = [
     name: "Mya Williams",
     contact: {
       linkedin: "https://www.linkedin.com/in/myaeliza/",
-      email: "mailto:myaeliza15@gmail.com",
+      email: "mailto:myaeliza15@gmail.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
@@ -76,7 +76,7 @@ const speakers = [
     contact: {
       linkedin: "https://www.linkedin.com/in/caryssa-perez/",
       website: "https://caryssaperez.com",
-      email: "mailto:caryssaperez@gmail.com",
+      email: "mailto:caryssaperez@gmail.com"
     },
     interests: ["Meetups", "Companies"],
     topics:
@@ -91,7 +91,7 @@ const speakers = [
     contact: {
       linkedin: "https://linkedin.com/in/irmamesa",
       website: "https://irmamesa.com",
-      email: "mailto:irmammesa@gmail.com.com",
+      email: "mailto:irmammesa@gmail.com.com"
     },
     interests: ["Meetups", "Conferences"],
     topics:
@@ -105,7 +105,7 @@ const speakers = [
     name: "Melissa Crum",
     contact: {
       linkedin: "https://www.linkedin.com/in/melissa-crum/",
-      email: "mailto:melissa.crum17@gmail.com",
+      email: "mailto:melissa.crum17@gmail.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
 
@@ -121,7 +121,7 @@ const speakers = [
       linkedin: "https://www.linkedin.com/in/scttcrry/",
       website: "https://indianapoliscoffeeguide.com",
       instagram: "https://instagram.com/heyscottcurry",
-      email: "mailto:scttcrry@gmail.com",
+      email: "mailto:scttcrry@gmail.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
@@ -135,7 +135,7 @@ const speakers = [
     name: "Eli Vida",
     contact: {
       linkedin: "https://www.linkedin.com/in/elivida/",
-      email: "mailto:evida@rightoninteractive.com",
+      email: "mailto:evida@rightoninteractive.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
@@ -149,7 +149,7 @@ const speakers = [
     name: "Tonie Snell",
     contact: {
       linkedin: "https://www.linkedin.com/in/jobmingler",
-      email: "mailto:tonie@360hr.co",
+      email: "mailto:tonie@360hr.co"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics: "Workplace equality, Diversity Forward, Transformational Inclusion",
@@ -162,7 +162,7 @@ const speakers = [
     name: "Ashlee Boyer",
     contact: {
       linkedin: "https://www.linkedin.com/in/ashleemboyer/",
-      email: "mailto:ashleemboyer.dev@gmail.com",
+      email: "mailto:ashleemboyer.dev@gmail.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
@@ -175,7 +175,8 @@ const speakers = [
   {
     name: "Linda Calvin",
     contact: {
-      linkedin: "https://www.linkedin.com/in/lindacalvin"
+      linkedin: "https://www.linkedin.com/in/lindacalvin",
+      email: "mailto:ldcalvin@ivytech.edu"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics: "Diversity in tech, women in tech, demystifying what “tech” is",
@@ -188,7 +189,7 @@ const speakers = [
     name: "Melanie Malott",
     contact: {
       linkedin: "https://www.linkedin.com/in/melaniemalott/",
-      email: "mailto:melanie.malott@emarsys.com",
+      email: "mailto:melanie.malott@emarsys.com"
     },
     interests: ["Meetups", "Conferences"],
     topics:
@@ -202,7 +203,7 @@ const speakers = [
     name: "Kate Maxwell",
     contact: {
       linkedin: "https://www.linkedin.com/in/kate-maxwell-6a7a359/",
-      email: "mailto:kate.maxwell@raytheon.com",
+      email: "mailto:kate.maxwell@raytheon.com"
     },
     interests: ["Meetups", "Conferences", "Companies"],
     topics:
